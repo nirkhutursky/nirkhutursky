@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @nirkhutursky
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Golang, JS and C
-- 💞️ I’m looking to collaborate on interesting Backend projects in Golang
-- 📫 How to reach me: nirkhut@gmail.com
-- ⚡ Fun fact: I was Bridge world champion, I'm enjoy playing chess and I'm enthusiastic about mushrooms and plants. 
+# Hi, I'm @nirkhutursky! 👋
 
-<!---
-nirkhutursky/nirkhutursky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🎯 I'm passionate about **Software Engineering** and always eager to dive into new technologies.
+- 📚 Currently, I'm learning **Golang**, **JavaScript**, and **C** to expand my programming skills.
+- 🤝 I'm looking to collaborate on **exciting Backend projects** using **Golang**.
+- 📧 Feel free to reach out to me at **nirkhut@gmail.com** for any collaboration or networking opportunities.
+- 🌟 Fun fact: I'm a **Bridge World Champion**, an avid **chess player**, and have a deep enthusiasm for **mushrooms and plants**.
+
+Thanks for visiting my profile! 😄
