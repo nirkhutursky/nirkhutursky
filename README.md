@@ -1,4 +1,4 @@
-# Hi, I'm @nirkhutursky! 👋
+# Hi, I'm @nirkhutorsky! 👋
 
 ## About Me
 - 🎯 I'm passionate about **Software Engineering** and always eager to dive into new technologies.
